@@ -1794,8 +1794,7 @@ a {
 
     .sm-footer__shell {
         padding: 40px 0;
-        margin: 0 auto;
-        width: 100%;
+        margin: 0 10px;
         gap: 0
     }
 }
@@ -1948,7 +1947,7 @@ a {
 
 @media (max-width:500px) {
     .sm-contact__shell-descr_text {
-        margin-top: 20px
+        margin: 15px
     }
 
     .sm-date__calendar-full {
