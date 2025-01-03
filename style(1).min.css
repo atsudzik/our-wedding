@@ -23,13 +23,14 @@ body {
   margin-bottom: 150px;
 }
 .swiper-text_counter{
-    font-size: 20px;
+    font-size: 18px;
+    font-weight: bold;
     font-family: "Znikomit";
 }
 .swiper-text{
     width: 70%;
     font-family: "Znikomit", sans-serif;
-    font-weight: lighter;
+    font-weight: bold;
     font-size: 18px;
     line-height: 120%;
     color: rgba(24, 24, 27, .9)
@@ -229,7 +230,7 @@ a {
 .sm-manropeLight-20,
 .sm-manropeLight-20-18 {
     font-family: "Znikomit";
-    font-weight: lighter;
+    font-weight: bold;
     font-size: 20px;
     line-height: 120%;
     color: rgba(24, 24, 27, .9)
@@ -330,7 +331,7 @@ a {
 
 .sm-btn {
     font-family: "Znikomit";
-    font-weight: 200;
+    font-weight: bold;
     font-size: 20px;
     line-height: 120%;
     color: #fff;
@@ -1364,7 +1365,7 @@ a {
 .sm-questionnaire__top-text {
     max-width: 360px;
     text-align: center;
-    font-weight: lighter
+    font-weight: bold
 }
 
 @media (max-width:500px) {
@@ -1852,7 +1853,7 @@ a {
 
 .sm-questionnaire .sm-cormorantRegular-50-30 {
     font-family: "Znikomit";
-    font-weight: 700
+    font-weight: bold
 }
 
 .sm-dress-code_wrap-bottom[data-sm-text=DRESSCODE_COLORS]>div {
