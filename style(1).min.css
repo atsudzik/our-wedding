@@ -24,12 +24,13 @@ body {
 }
 .swiper-text_counter{
     font-size: 20px;
+    font-family: "Znikomit";
 }
 .swiper-text{
-    width: 80%;
-    font-family: "SMTextsFont", sans-serif;
+    width: 70%;
+    font-family: "Znikomit", sans-serif;
     font-weight: lighter;
-    font-size: 20px;
+    font-size: 18px;
     line-height: 120%;
     color: rgba(24, 24, 27, .9)
 }
@@ -52,6 +53,12 @@ body {
     font-family: "Mirra"; 
     src: url("./fonts/Mirra.otf") format("opentype"); 
   } 
+@font-face{
+    font-family: "Znikomit";
+    src:url(./fonts/Znikomit.otf) format("opentype");
+    font-weight: normal;
+    font-style: normal;
+}
 #yellow{
     color: #feba15;
     font-family: "Mirra";
@@ -182,7 +189,7 @@ a {
 }
 
 .sm-cormorantLight-40-30 {
-    font-family: "Mirra", sans-serif;
+    font-family: "Znikomit";
     font-weight: 300;
     font-size: 30px;
     line-height: 120%;
@@ -221,7 +228,7 @@ a {
 
 .sm-manropeLight-20,
 .sm-manropeLight-20-18 {
-    font-family: "SMTextsFont", sans-serif;
+    font-family: "Znikomit";
     font-weight: lighter;
     font-size: 20px;
     line-height: 120%;
@@ -281,7 +288,7 @@ a {
 }
 
 .sm-manropeBold-20-18 {
-    font-family: "SMTextsFont", sans-serif;
+    font-family: "Znikomit";
     font-size: 20px;
     line-height: 120%;
     color: rgba(24, 24, 27, .9)
@@ -322,7 +329,7 @@ a {
 }
 
 .sm-btn {
-    font-family: "SMTextsFont", sans-serif;
+    font-family: "Znikomit";
     font-weight: 200;
     font-size: 20px;
     line-height: 120%;
@@ -1004,7 +1011,7 @@ a {
     text-align: center;
     max-width: 446px;
     margin-top: 30px;
-    font-size: 20px
+    font-size: 18px
 }
 
 .sm-contact__shell-item {
@@ -1845,8 +1852,8 @@ a {
 }
 
 .sm-questionnaire .sm-cormorantRegular-50-30 {
-    font-family: "SMTextsFont", sans-serif;
-    font-weight: 300
+    font-family: "Znikomit";
+    font-weight: 700
 }
 
 .sm-dress-code_wrap-bottom[data-sm-text=DRESSCODE_COLORS]>div {
@@ -2080,3 +2087,4 @@ a {
 .modal-open input[type=radio]:checked {
     mix-blend-mode: initial !important
 }
+
