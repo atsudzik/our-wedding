@@ -1964,7 +1964,8 @@ a {
     }
 
     .sm-main__wrapper-decr_line {
-        display: none
+        border-top: 1px solid #feba15;
+        width: 170px
     }
 
     .sm-mob-btn {
