@@ -1045,7 +1045,7 @@ a {
     }
 
     .sm-bg-image_photo {
-        height: 363px
+        height: 340px
     }
 }
 
@@ -2059,7 +2059,7 @@ a {
     }
 
     .sm-footer {
-        max-height: fit-content;
+        max-height: 340px;
     }
 
     .sm-footer__shell .sm-wishes__shell-descr_line {
