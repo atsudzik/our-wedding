@@ -768,7 +768,7 @@ a {
     display: -webkit-box;
     display: -ms-flexbox;
     display: flex;
-    gap: 30px;
+    gap: 50px;
     -webkit-box-align: center;
     -ms-flex-align: center;
     align-items: center
@@ -783,8 +783,8 @@ a {
 }
 
 [data-sm-text=DRESSCODE_COLORS]>div {
-    width: 130px;
-    height: 130px;
+    width: 80px;
+    height: 80px;
     position: relative;
     border-radius: 50%;
     border: 1px solid
@@ -792,8 +792,8 @@ a {
 
 @media (max-width:500px) {
     [data-sm-text=DRESSCODE_COLORS]>div {
-        width: 40px;
-        height: 40px
+        width: 50px;
+        height: 50px
     }
 }
 
