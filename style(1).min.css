@@ -1189,7 +1189,6 @@ a {
     right: -25px;
     top: -30px;
     bottom: -20px;
-    background: url(/sitemaker/templates/template44/img/date.svg)no-repeat center center;
     z-index: -1;
     background-size: cover
 }
@@ -1859,8 +1858,6 @@ a {
 .sm-dress-code_wrap-bottom[data-sm-text=DRESSCODE_COLORS]>div {
     border: initial;
     border-radius: initial;
-    mask-image: url(/sitemaker/templates/template24/img/mask.svg);
-    -webkit-mask-image: url(/sitemaker/templates/template24/img/mask.svg);
     mask-size: contain;
     -webkit-mask-size: contain;
     mask-repeat: no-repeat
